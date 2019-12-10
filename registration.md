@@ -13,7 +13,7 @@ slide_id: 5
 
 &nbsp;
 
-Register via The Combustion Institute's website: <https://www.combustioninstitute.org/ci-event/2019-fall-meeting-of-the-western-states-section-of-the-combustion-institute/>
+Register via The Combustion Institute's website: <https://www.combustioninstitute.org/ci-event/2020-spring-meeting-of-the-western-states-section-of-the-combustion-institute/>
 
 Registration fees include admission to all technical sessions, a delegate conference kit, breakfast, coffee breaks, lunch on Monday, and the Monday night reception. **All** attendees, including presenters, must register for the conference.
 
@@ -21,6 +21,6 @@ The difference in registration fees between members and non-members is used to r
 
 #### Deadlines
 
-Early registration ends on **September 13**.
+Early registration ends on **TBD**.
 <br>
-Late registration ends on **October 9**.
+Late registration ends on **TBD**.

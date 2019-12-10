@@ -12,14 +12,13 @@ slide_id: 4
 {% else %}
 #### Technical Program
 
-##### October 14th
+##### March 23
 The technical program will be a full day on Monday, concluding in an evening reception. Breakfast, lunch, and coffee breaks will be included Monday.
-##### October 15th 
+##### March 24
 The technical program will be a half day, ending no later that 1pm. Breakfast and a coffee break will be included Tuesday.
 
-In the afternoon, there will be an optional tour of Sandia National Laboratories Thermal Test Complex. See activities page for detials. 
 ##### Technical Program
-A draft of the technical program will be avaible in October. 
+A draft of the technical program will be avaible in February. 
 
 {% endif %}
 

@@ -1,12 +1,12 @@
-full_title: WSSCI Fall Technical Meeting
-short_title: WSSCI F2019
+full_title: WSSCI Spring Technical Meeting
+short_title: WSSCI S2020
 email: webmaster@wssci.us
 program_chair_email: davidlignell@byu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Fall Technical Meeting of the Western States Section of The Combustion Institute
-location: Albuquerque, NM, USA
-date: Fall 2019
-program_link: ./assets/2019-WSSCI-Fall-Program-final.pdf
+  Spring Technical Meeting of the Western States Section of The Combustion Institute
+location: Stanford, CA, USA
+date: Spring 2020
+#program_link: 
 
 logo_path: ./assets/images/WSSCI-Logo-web.png
 slideshow:
@@ -64,15 +64,15 @@ deadlines:
    pass_due: True
 
 news:
-  - date: 2019-10-11
-    text: New information about events added to Activities
-  - date: 2019-09-23
-    text: More hotel rooms added to the block
-  - date: 2019-08-16
-    text: Student Travel Award details now available
-  - date: 2019-07-31
-    text: Abstract deadline extended to Aug 5
-  - date: 2019-03-21
+  # - date: 2019-10-11
+  #   text: New information about events added to Activities
+  # - date: 2019-09-23
+  #   text: More hotel rooms added to the block
+  # - date: 2019-08-16
+  #   text: Student Travel Award details now available
+  # - date: 2019-07-31
+  #   text: Abstract deadline extended to Aug 5
+  - date: 2019-12-10
     text: Website online
 
 sponsors:
@@ -91,15 +91,15 @@ program_chairs:
     homepage: https://chemicalengineering.byu.edu/index.php/cb-profile/dol4
 
 host_committee:
-  - name: John Hewson
-    org: Sandia National Laboratories
-    email: jchewso@sandia.gov
-  - name: Sarah Scott
-    org: Sandia National Laboratories
-    email: snscott@sandia.gov
-  - name: Kathy Loeppky
-    email: kloeppk@sandia.gov
-    org: Sandia National Laboratories
+  - name: Matthias Ihme
+    org: Stanford University
+    email: mihme@stanford.edu
+  - name: Vi Rapp
+    org: Lawrence Berkeley National Laboratory
+    email: vhrapp@lbl.gov
+  - name: Marcus Day
+    email: msday@lbl.gov
+    org: Lawrence Berkeley National Laboratory
 
 technical_program_committee:
   # put list of people on technical committee here
