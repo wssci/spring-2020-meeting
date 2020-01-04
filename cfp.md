@@ -4,23 +4,23 @@ layout: page
 slide_id: 2
 ---
 
-Papers are solicited for the 2020 spring meeting of the Western States Section of The Combustion Institute.
+Submissions are solicited for the 2020 Spring Meeting of the Western States Section of The Combustion Institute. Instead of full papers, we are requesting the submission of extended abstracts. Extended abstracts should be a minimum of two pages (approximately 1000 words) and should include at least one significant figure. 
 
-Papers should be submitted to one of the following colloquium topics:
+Extended abstracts should be submitted to one of the following colloquium topics:
 
-- Chemical Kinetics
 - Laminar Flames
 - Turbulent Flames
-- Soot
-- Coal, Biomass Combustion, and Gasification
+- Fire and Fire Safety 
 - Diagnostics
+- Chemical Kinetics
+- Biomass Combustion and Gasification
+- Soot and Nanomaterials 
 - Stationary Combustion Systems
-- Fire
-- Heterogeneous Combustion, Sprays & Droplets
+- Sprays, Droplets and Supercritical Combustion
 - Environmental Aspects of Combustion
 - Detonations, Explosions, and Supersonic Combustion
-- Internal Combustion and Gas Turbine Engines
-- Microcombustion and New Combustion Devices
+- Internal Combustion, Gas Turbines, and Rockets Engines
+- Microcombustion and New Combustion Concepts
 
-Paper abstracts should be 100-200 words and include 2-4 keywords and are due TBD.
-Instructions for formatting the full paper (5 page minimum) submissions are available at the [meeting website](./submission.html).
+Instructions for formatting the extended abstract submissions are available at the [Submission site](./submission.html).
+
