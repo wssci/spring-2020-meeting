@@ -8,7 +8,7 @@ Student travel award applications are now open for students in the Western State
 
 The award (up to $150 per student) applies to students who are presenting at the meeting and are current members of the Western States Section of the Combustion Institute. 
 
-<!-- Applicants should apply using the <a href= "" target="_blank">online form</a>.-->
+Applicants should apply using the <a href="https://forms.gle/sJjmaBTxUpdnsnJB6" target="_blank">online form</a>.
 
 The requirements for receiving a travel award are:
 
