@@ -79,10 +79,6 @@ news:
     text: Website online
 
 sponsors:
-#  - name: Caltech Division of Engineering and Applied Sciences
-#    url: http://eas.caltech.edu
-#    logo_path: ./assets/images/Caltech-EAS-logo.png
-#    level: platinum
  - name: Stanford Department of Mechanical Engineering 
    url: https://me.stanford.edu
    logo_path: ./assets/images/sponsors/StanfordME.png
@@ -95,10 +91,10 @@ sponsors:
    url: https://www.fmglobal.com
    logo_path: ./assets/images/sponsors/FMGlobal.png
    level: sponsor
- - name: Lawrence Berkeley National Laboratory
-   url: https://www.lbl.gov
-   logo_path: ./assets/images/sponsors/LBNL.png
-   level: sponsor
+# - name: Lawrence Berkeley National Laboratory
+#   url: https://www.lbl.gov
+#   logo_path: ./assets/images/sponsors/LBNL.png
+#   level: sponsor
 
 social_media:
   facebook_link:
