@@ -4,7 +4,7 @@ layout: page
 slide_id: 2
 ---
 
-Submissions are solicited for the 2020 Spring Meeting of the Western States Section of The Combustion Institute. Instead of full papers, we are requesting the submission of extended abstracts. Extended abstracts should be a minimum of two pages (approximately 1000 words) and should include at least one significant figure. 
+Submissions are solicited for the 2020 Spring Meeting of the Western States Section of The Combustion Institute. Instead of full papers, we are requesting the submission of extended abstracts. Extended abstracts should be a minimum of two pages (approximately 1000 words) and should include at least one significant figure.
 
 Extended abstracts should be submitted to one of the following colloquium topics:
 
