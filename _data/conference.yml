@@ -5,63 +5,66 @@ program_chair_email: davidlignell@byu.edu
 description: > # this means to ignore newlines until "baseurl:"
   Spring Technical Meeting of the Western States Section of The Combustion Institute
 location: Stanford, CA, USA
-date: Spring 2020
+date: March 23-24, 2020
 #program_link: 
 
 logo_path: ./assets/images/WSSCI-Logo-web.png
 slideshow:
  - id: 0
-   image_path: ./assets/images/slideshow/image0.png
-   description:
-   photographer_name:
+   image_path: ./assets/images/slideshow/131002-5075.jpg
+   description: Stanford University
+   photographer_name: SALLIE
    photographer_link:
    active: true
-  # - id: 1
-  #   image_path: ./assets/images/slideshow/image1.jpg
-  #   description: Huntington Library & Botanical Gardens - Pasadena, California
-  #   photographer_name: Chris Goldberg
-  #   photographer_link: https://www.flickr.com/photos/chrisgold/
-  # - id: 2
-  #   image_path: ./assets/images/slideshow/image2.jpg
-  #   description: California Science Center, Los Angeles
-  #   photographer_name: Fabio Achilli
-  #   photographer_link: https://www.flickr.com/photos/travelourplanet/
-  # - id: 3
-  #   image_path: ./assets/images/slideshow/image3.jpg
-  #   description: Image 17540 (USA/California/Los Angeles County/Pasadena/CalTech)
-  #   photographer_name: Vlad Butsky
-  #   photographer_link: https://www.flickr.com/photos/butsky/
-  # - id: 4
-  #   image_path: ./assets/images/slideshow/image4.jpg
-  #   description: Campus of the California Institute of Technology
-  #   photographer_name: Alan Cordova
-  #   photographer_link: https://www.flickr.com/photos/acordova/
+ - id: 1
+   image_path: ./assets/images/slideshow/8202175082_3392eb5be6_oRed.jpg
+   description: Stanford University
+   photographer_name: SALLIE
+   photographer_link: 
+ - id: 2
+   image_path: ./assets/images/slideshow/151111-0864.jpg
+   description: Stanford University
+   photographer_name: SALLIE
+   photographer_link:
+   active: true
 
 deadlines:
- - date: 2019-08-05
-   timezone: 11:59PM PDT
-   text: Abstract deadline
-   pass_due: True
- - date: 2019-08-31
-   timezone: 11:59PM PDT
-   text: Paper submission deadline
-   pass_due: True
- - date: 2019-09-13
-   timezone: 11:59PM PDT
+ - date: 2019-02-07
+   timezone: 11:59PM EDT
+   text: Extended abstract deadline
+   pass_due: False
+ - date: 2020-02-14
+   timezone: 11:59PM PST
+   text: Notification of presentation
+   pass_due: False
+ - date: 2020-02-21
+   timezone: 11:59PM EDT
    text: Early registration deadline
-   pass_due: True
- - date: 2019-09-13
+   pass_due: False
+ - date: 2020-02-21
    timezone: 11:59PM PDT
    text: Student travel award deadline
-   pass_due: True
- - date: 2019-09-30
+   pass_due: False
+ - date: 2020-02-21
    timezone: 11:59PM PDT
-   text: Last day to book discounted hotel room
-   pass_due: True
- - date: 2019-10-09
+   text: Last day to book discounted hotels
+   pass_due: False
+ - date: 2020-03-02
    timezone: 11:59PM PDT
-   text: Late registration deadline
-   pass_due: True
+   text: Draft program posted
+   pass_due: False
+ - date: 2020-03-13
+   timezone: 11:59PM PDT
+   text: Art competition deadline
+   pass_due: False
+ - date: 2020-03-17
+   timezone: 11:59PM EDT
+   text: Online registration closes
+   pass_due: False
+ - text: Spring Meeting begins
+   date: 2020-03-23
+  #timezone: 11:59PM PDT
+   pass_due: False
 
 news:
   # - date: 2019-10-11
@@ -72,14 +75,26 @@ news:
   #   text: Student Travel Award details now available
   # - date: 2019-07-31
   #   text: Abstract deadline extended to Aug 5
-  - date: 2019-12-10
+  - date: 2020-01-04
     text: Website online
 
 sponsors:
-#  - name: Caltech Division of Engineering and Applied Sciences
-#    url: http://eas.caltech.edu
-#    logo_path: ./assets/images/Caltech-EAS-logo.png
-#    level: platinum
+ - name: Stanford Department of Mechanical Engineering 
+   url: https://me.stanford.edu
+   logo_path: ./assets/images/sponsors/StanfordME.png
+   level: sponsor
+ - name: ANSYS
+   url: https://www.ansys.com
+   logo_path: ./assets/images/sponsors/ansys.png
+   level: sponsor
+ - name: FM Global
+   url: https://www.fmglobal.com
+   logo_path: ./assets/images/sponsors/FMGlobal.png
+   level: sponsor
+# - name: Lawrence Berkeley National Laboratory
+#   url: https://www.lbl.gov
+#   logo_path: ./assets/images/sponsors/LBNL.png
+#   level: sponsor
 
 social_media:
   facebook_link:
@@ -94,6 +109,7 @@ host_committee:
   - name: Matthias Ihme
     org: Stanford University
     email: mihme@stanford.edu
+    homepage: http://ihmegroup.stanford.edu
   - name: Vi Rapp
     org: Lawrence Berkeley National Laboratory
     email: vhrapp@lbl.gov

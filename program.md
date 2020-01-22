@@ -12,13 +12,17 @@ slide_id: 4
 {% else %}
 #### Technical Program
 
+##### March 22
+Conference registration opens in the afternoon.
+
 ##### March 23
-The technical program will be a full day on Monday, concluding in an evening reception. Breakfast, lunch, and coffee breaks will be included Monday.
+The technical program will be a full day on Monday, concluding in an evening reception.
+
 ##### March 24
-The technical program will be a half day, ending no later that 1pm. Breakfast and a coffee break will be included Tuesday.
+The technical program will be a half day, ending no later that 1pm.
 
 ##### Technical Program
-A draft of the technical program will be avaible in February. 
+A draft of the technical program will be posted on March 2, 2020. 
 
 {% endif %}
 
