@@ -29,8 +29,8 @@ slideshow:
    active: true
 
 deadlines:
- - date: 2019-02-07
-   timezone: 11:59PM EDT
+ - date: 2019-02-12
+   timezone: 11:59PM EST
    text: Extended abstract deadline
    pass_due: False
  - date: 2020-02-14
