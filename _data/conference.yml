@@ -32,16 +32,16 @@ deadlines:
  - date: 2019-02-12
    timezone: 11:59PM EST
    text: Extended abstract deadline
-   pass_due: False
- - date: 2020-02-14
+   pass_due: True
+ - date: 2020-02-20
    timezone: 11:59PM PST
    text: Notification of presentation
    pass_due: False
- - date: 2020-02-21
+ - date: 2020-02-28
    timezone: 11:59PM EDT
    text: Early registration deadline
    pass_due: False
- - date: 2020-02-21
+ - date: 2020-02-28
    timezone: 11:59PM PDT
    text: Student travel award deadline
    pass_due: False
