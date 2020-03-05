@@ -77,6 +77,10 @@ news:
   #   text: Abstract deadline extended to Aug 5
   - date: 2020-01-04
     text: Website online
+  - date: 2020-03-04
+    text: Draft program posted 
+  - date: 2020-03-04
+    text: Coronavirus update posted
 
 sponsors:
  - name: Stanford Department of Mechanical Engineering 
