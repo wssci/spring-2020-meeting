@@ -5,7 +5,7 @@ slide_id: 0
 ---
 
 <p class="lead">
-The WSSCI Spring Technical Meeting will be held on March 23-24, 2020 in Stanford, CA.
+The WSSCI Spring Technical Meeting will be held on March 21-22, 2022 in Stanford, CA.
 </p>
 
 ## Conference Location

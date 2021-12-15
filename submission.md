@@ -4,7 +4,7 @@ layout: submission
 slide_id: 3
 ---
 
-#### Extended Abstract Submission Opens: 6 January 2020
+#### Extended Abstract Submission Opens: 27 January 2022
 
 Submit an extended abstract in PDF format. This is a slight change from the process for previous years, as there is no longer a full paper submission following the acceptance of a shorter abstract as in earlier meetings. 
 Submissions should be at least two pages (approximately 1000 words), and can include figures, references, etc. 
@@ -16,7 +16,7 @@ Only electronic submissions in PDF will be accepted. Submitted extended abstract
 Plese use the **provided templates**:
 
 - [<i class="fa fa-file-text-o fa-fw" aria-hidden="true"></i>LaTeX template](./assets/wssci-latex-template-0.3.1.zip)
-- [<i class="fa fa-file-word-o fa-fw" aria-hidden="true"></i>Word template](./assets/2020-WSSCI-Spring_PaperTemplate.docx)
+- [<i class="fa fa-file-word-o fa-fw" aria-hidden="true"></i>Word template](./assets/2022-WSSCI-Spring_PaperTemplate.docx)
 
 Note that at least one author of each paper accepted for presentation must be registered to attend the meeting.
 

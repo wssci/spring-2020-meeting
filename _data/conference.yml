@@ -1,12 +1,12 @@
 full_title: WSSCI Spring Technical Meeting
-short_title: WSSCI S2020
+short_title: WSSCI S2022
 email: webmaster@wssci.us
 program_chair_email: davidlignell@byu.edu
 description: > # this means to ignore newlines until "baseurl:"
   Spring Technical Meeting of the Western States Section of The Combustion Institute
 location: Stanford, CA, USA
-date: March 23-24, 2020
-program_link: ./assets/2020-WSSCI-Spring-Program_3-5-2020.pdf
+date: March 21-22, 2022
+#program_link: ./assets/2020-WSSCI-Spring-Program_3-5-2020.pdf
 
 logo_path: ./assets/images/WSSCI-Logo-web.png
 slideshow:
@@ -29,42 +29,45 @@ slideshow:
    active: true
 
 deadlines:
- - date: 2019-02-12
+ - date: 2022-01-27
    timezone: 11:59PM EST
    text: Extended abstract deadline
-   pass_due: True
- - date: 2020-02-20
+   pass_due: False
+ - date: 2022-02-04
    timezone: 11:59PM PST
-   text: Notification of presentation
-   pass_due: True
- - date: 2020-02-21
-   timezone: 11:59PM PDT
-   text: Last day to book discounted hotels
-   pass_due: True
- - date: 2020-02-28
-   timezone: 11:59PM EDT
+   text: Notification of acceptance
+   pass_due: False
+#  - date: 2020-02-21
+#    timezone: 11:59PM PDT
+#    text: Last day to book discounted hotels
+#    pass_due: True
+ - date: 2022-02-11
+   timezone: 11:59PM EST
    text: Early registration deadline
-   pass_due: True
- - date: 2020-02-28
-   timezone: 11:59PM PDT
-   text: Student travel award deadline
-   pass_due: True
- - date: 2020-03-04
-   timezone: 11:59PM PDT
-   text: Draft program posted
-   pass_due: True
- - date: 2020-03-13
-   timezone: 11:59PM PDT
-   text: Art competition deadline
    pass_due: False
- - date: 2020-03-17
+ - date: 2022-03-17
    timezone: 11:59PM EDT
-   text: Online registration closes
+   text: Online registration deadline
    pass_due: False
- - text: Spring Meeting begins
-   date: 2020-03-23
-  #timezone: 11:59PM PDT
-   pass_due: False
+#  - date: 2020-02-28
+#    timezone: 11:59PM PDT
+#    text: Student travel award deadline
+#    pass_due: True
+#  - date: 2020-03-04
+#    timezone: 11:59PM PDT
+#    text: Draft program posted
+#    pass_due: True
+# - date: 2020-03-13
+#   timezone: 11:59PM PDT
+#   text: Art competition deadline
+#   pass_due: False
+# - date: 2020-03-17
+#   timezone: 11:59PM EDT
+#   text: Online registration closes
+#   pass_due: False
+# - text: Spring Meeting begins
+#   date: 2020-03-23
+#   pass_due: False
 
 news:
   # - date: 2019-10-11
@@ -75,12 +78,10 @@ news:
   #   text: Student Travel Award details now available
   # - date: 2019-07-31
   #   text: Abstract deadline extended to Aug 5
-  - date: 2020-01-04
-    text: Website online
-  - date: 2020-03-04
-    text: Draft program posted 
-  - date: 2020-03-04
-    text: Coronavirus update posted
+  - date: 2021-12-14
+    text: Website updated
+  - date: 2021-12-15
+    text: Extended abstract submission open
 
 sponsors:
  - name: Stanford Department of Mechanical Engineering 
@@ -105,9 +106,10 @@ social_media:
   twitter_link:
 
 program_chairs:
-  - name: David Lignell
-    org: Brigham Young University
-    homepage: https://chemicalengineering.byu.edu/index.php/cb-profile/dol4
+  - name: Bret Windom
+    org: Colorado State University
+    email: bret.windom@colostate.edu
+    homepage: https://www.engr.colostate.edu/me/faculty/dr-bret-windom/
 
 host_committee:
   - name: Matthias Ihme
@@ -117,9 +119,6 @@ host_committee:
   - name: Vi Rapp
     org: Lawrence Berkeley National Laboratory
     email: vhrapp@lbl.gov
-  - name: Marcus Day
-    email: msday@lbl.gov
-    org: Lawrence Berkeley National Laboratory
 
 technical_program_committee:
   # put list of people on technical committee here
