@@ -5,6 +5,7 @@ slide_id: 4
 ---
 
 #### Program Overview
+TBD
 
 {% if site.data.conference.program_link %}
 [<i class="fa fa-external-link fa-fw" aria-hidden="true"></i>**Printed program**]({{ site.data.conference.program_link }})
@@ -12,14 +13,15 @@ slide_id: 4
 {% else %}
 #### Technical Program
 
+##### March 20
+Conference Registration opens in the afternoon.
 ##### March 21
 The technical program will be a full day on Monday, concluding in an evening reception.
-
 ##### March 22
-The technical program will be a full day on Tuesday.
+The technical program will be a half day, ending no later that 1pm. 
 
 ##### Technical Program
-A draft of the technical program will be posted on 25 February 2022. 
+A draft of the technical program will be posted on or around February 25, 2022. 
 
 {% endif %}
 

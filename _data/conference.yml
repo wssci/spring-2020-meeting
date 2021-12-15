@@ -1,11 +1,11 @@
-full_title: WSSCI Spring Technical Meeting
+full_title: WSSCI Spring Technical Meeting (hybrid)
 short_title: WSSCI S2022
 email: webmaster@wssci.us
-program_chair_email: davidlignell@byu.edu
+program_chair_email: Bret.Windom@colostate.edu
 description: > # this means to ignore newlines until "baseurl:"
   Spring Technical Meeting of the Western States Section of The Combustion Institute
 location: Stanford, CA, USA
-date: March 21-22, 2022
+date: Spring 2022 (March 21-22, 2022)
 #program_link: ./assets/2020-WSSCI-Spring-Program_3-5-2020.pdf
 
 logo_path: ./assets/images/WSSCI-Logo-web.png
@@ -29,45 +29,39 @@ slideshow:
    active: true
 
 deadlines:
+ - date: 2021-12-07
+   timezone: 11:59PM PST
+   text: Extended abstract submission open
+   pass_due: True 
  - date: 2022-01-27
-   timezone: 11:59PM EST
-   text: Extended abstract deadline
+   timezone: 11:59PM PST
+   text: Extended abstract submission deadline
    pass_due: False
  - date: 2022-02-04
-   timezone: 11:59PM PST
-   text: Notification of acceptance
+   text: Extended Abstract (accept/reject) notification
    pass_due: False
-#  - date: 2020-02-21
-#    timezone: 11:59PM PDT
-#    text: Last day to book discounted hotels
-#    pass_due: True
  - date: 2022-02-11
-   timezone: 11:59PM EST
+   timezone: 11:59PM PST
    text: Early registration deadline
    pass_due: False
- - date: 2022-03-17
-   timezone: 11:59PM EDT
-   text: Online registration deadline
+ - date: 2022-02-21
+   timezone: 11:59PM PST
+   text: Student travel award deadline
    pass_due: False
-#  - date: 2020-02-28
-#    timezone: 11:59PM PDT
-#    text: Student travel award deadline
-#    pass_due: True
-#  - date: 2020-03-04
-#    timezone: 11:59PM PDT
-#    text: Draft program posted
-#    pass_due: True
-# - date: 2020-03-13
-#   timezone: 11:59PM PDT
-#   text: Art competition deadline
-#   pass_due: False
-# - date: 2020-03-17
-#   timezone: 11:59PM EDT
-#   text: Online registration closes
-#   pass_due: False
-# - text: Spring Meeting begins
-#   date: 2020-03-23
-#   pass_due: False
+ - date: 2022-02-20
+   text: Last day to book discounted hotels
+   pass_due: False
+ - date: 2022-02-25
+   text: Draft program posted
+   pass_due: False
+ - date: 2022-03-17
+   timezone: 11:59PM PST
+   text: Online registration closes
+   pass_due: False
+ - text: Spring Meeting begins
+   date: 2022-03-21
+  #timezone: 11:59PM PDT
+   pass_due: False
 
 news:
   # - date: 2019-10-11
@@ -84,22 +78,22 @@ news:
     text: Extended abstract submission open
 
 sponsors:
- - name: Stanford Department of Mechanical Engineering 
-   url: https://me.stanford.edu
-   logo_path: ./assets/images/sponsors/StanfordME.png
-   level: sponsor
- - name: ANSYS
-   url: https://www.ansys.com
-   logo_path: ./assets/images/sponsors/ansys.png
+ - name: National Science Foundation
+   url: https://nsf.gov
+   logo_path: ./assets/images/sponsors/logoNSF.png
    level: sponsor
  - name: FM Global
    url: https://www.fmglobal.com
-   logo_path: ./assets/images/sponsors/FMGlobal.png
+   logo_path: ./assets/images/sponsors/logoFMGlobal.png
    level: sponsor
-# - name: Lawrence Berkeley National Laboratory
-#   url: https://www.lbl.gov
-#   logo_path: ./assets/images/sponsors/LBNL.png
-#   level: sponsor
+ - name: ANSYS
+   url: https://www.ansys.com
+   logo_path: ./assets/images/sponsors/logoAnsys.png
+   level: sponsor
+ - name: Stanford University Mechanical Engineering
+   url: https://me.stanford.edu
+   logo_path: ./assets/images/sponsors/logoStanfordME.png
+   level: sponsor
 
 social_media:
   facebook_link:
@@ -119,6 +113,10 @@ host_committee:
   - name: Vi Rapp
     org: Lawrence Berkeley National Laboratory
     email: vhrapp@lbl.gov
+  - name: Marcus Day
+    org: National Renewable Energy Laboratory
+    email: Marcus.Day@nrel.gov
+    
 
 technical_program_committee:
   # put list of people on technical committee here

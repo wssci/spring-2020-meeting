@@ -25,3 +25,6 @@ Extended abstracts should be submitted to one of the following colloquium topics
 
 Instructions for formatting the extended abstract submissions are available at the [Submission site](./submission.html).
 
+#### Presentation (in-person/virtual)
+
+Following the notification of the acceptance of your extended abstract you're invited to present your paper at the hybrid meeting. For presenters that attend the meeting in virtual form, we request submission of a prerecorded video presentation. Your prerecorded presentation will be presented during the regular session; discussions of the prerecorded presentations will be entertained after each video presentation. Further details on the format of the prerecorded presentations and the submission will be provided with the notification of accepted abstracts. 
