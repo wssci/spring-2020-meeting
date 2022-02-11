@@ -36,10 +36,10 @@ deadlines:
  - date: 2022-01-27
    timezone: 11:59PM PST
    text: Extended abstract submission deadline
-   pass_due: False
+   pass_due: True
  - date: 2022-02-04
    text: Extended Abstract (accept/reject) notification
-   pass_due: False
+   pass_due: True
  - date: 2022-02-11
    timezone: 11:59PM PST
    text: Early registration deadline

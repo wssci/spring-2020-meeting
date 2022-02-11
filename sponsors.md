@@ -12,5 +12,7 @@ We thank the following sponsors for their support of the meeting:
 <br>
 <center><a href="https://www.ansys.com"> <img border="0" alt="W3Schools" src="./assets/images/sponsors/logoAnsys.png" height="90" ></a></center>
 <br>
+<center><a href="https://www.exponent.com"> <img border="0" alt="W3Schools" src="./assets/images/sponsors/logoExponent.png" height="90" ></a></center>
+<br>
 <center><a href="https://me.stanford.edu"> <img border="0" alt="W3Schools" src="./assets/images/sponsors/logoStanfordME.png" height="100" ></a></center>
 
