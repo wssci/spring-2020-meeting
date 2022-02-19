@@ -22,3 +22,4 @@ gem "jekyll"
 
 gem 'tzinfo-data'
 gem 'tzinfo'
+gem "webrick"
