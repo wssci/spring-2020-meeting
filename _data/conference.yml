@@ -43,16 +43,16 @@ deadlines:
  - date: 2022-02-11
    timezone: 11:59PM PST
    text: Early registration deadline
-   pass_due: False
- - date: 2022-02-21
-   timezone: 11:59PM PST
-   text: Student travel award deadline
-   pass_due: False
+   pass_due: True
  - date: 2022-02-20
    text: Last day to book discounted hotels
    pass_due: False
  - date: 2022-02-25
    text: Draft program posted
+   pass_due: False
+ - date: 2022-03-11
+   timezone: 11:59PM PST
+   text: Student travel award deadline
    pass_due: False
  - date: 2022-03-17
    timezone: 11:59PM PST
