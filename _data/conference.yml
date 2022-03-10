@@ -46,7 +46,7 @@ deadlines:
    pass_due: True
  - date: 2022-02-20
    text: Last day to book discounted hotels
-   pass_due: False
+   pass_due: True
  - date: 2022-02-25
    text: Draft program posted
    pass_due: False
@@ -54,9 +54,13 @@ deadlines:
    timezone: 11:59PM PST
    text: Student travel award deadline
    pass_due: False
- - date: 2022-03-17
+ - date: 2022-03-14
    timezone: 11:59PM PST
-   text: Online registration closes
+   text: Student travel award deadline
+   pass_due: False
+ - date: 2022-03-17
+   timezone: 6:00PM PDT
+   text: Video presentation deadline
    pass_due: False
  - text: Spring Meeting begins
    date: 2022-03-21
