@@ -55,12 +55,12 @@ deadlines:
    text: Student travel award deadline
    pass_due: False
  - date: 2022-03-14
-   timezone: 11:59PM PST
-   text: Student travel award deadline
-   pass_due: False
- - date: 2022-03-17
    timezone: 6:00PM PDT
    text: Video presentation deadline
+   pass_due: False
+ - date: 2022-03-17
+   timezone: 11:59PM PST
+   text: Online registration closes
    pass_due: False
  - text: Spring Meeting begins
    date: 2022-03-21
