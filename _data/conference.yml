@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Spring Technical Meeting of the Western States Section of The Combustion Institute
 location: Stanford, CA, USA
 date: Spring 2022 (March 21-22, 2022)
-#program_link: ./assets/2020-WSSCI-Spring-Program_3-5-2020.pdf
+program_link: ./assets/2022-WSSCI-Spring-Program-14March.pdf
 
 logo_path: ./assets/images/WSSCI-Logo-web.png
 slideshow:
@@ -47,13 +47,10 @@ deadlines:
  - date: 2022-02-20
    text: Last day to book discounted hotels
    pass_due: True
- - date: 2022-02-25
-   text: Draft program posted
-   pass_due: False
  - date: 2022-03-11
    timezone: 11:59PM PST
    text: Student travel award deadline
-   pass_due: False
+   pass_due: True
  - date: 2022-03-14
    timezone: 6:00PM PDT
    text: Video presentation deadline
@@ -80,6 +77,8 @@ news:
     text: Website updated
   - date: 2021-12-15
     text: Extended abstract submission open
+  - date: 2022-03-14
+    text: Draft program posted
 
 sponsors:
  - name: National Science Foundation
